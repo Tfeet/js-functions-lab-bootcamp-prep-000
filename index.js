@@ -6,7 +6,6 @@ function happyHolidaysTo(name){
   return (`Happy holidays, ${name}!`)
 }
 function happyCustomHolidaysTo(holiday,name),
- console.log`Happy ${happyHolidays}, ${happyHolidaysTo}!`
  return ("Happy Independence Day To You")
 }
 function holidayCountdown(holiday, days){
